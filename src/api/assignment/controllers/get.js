@@ -20,7 +20,7 @@ const projectStudent = async (request, response, next) => {
 
     const arrayProjects = await Assignment.find(filters); 
 
-    if (arrayProjects.length === 0) {
+    if (arrayProjects?.length === 0) {
       return response.status(404).json({ 
         message:"Projects Not Found"});
     }

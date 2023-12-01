@@ -89,7 +89,7 @@ El módulo "Feed" es parte de la plataforma educativa, EdVisto. Este módulo se 
 
 **Asignaciones:**
 
-- ✍️📋 Nuestro módulo, permite visualizar  las publicaciones recientes concercientes a los proyectos creados asignados a determinado estudiante. Siendo posible  obtener más imformación al acceder a esta, como la descripción, y el titulo del fenomeno que abarcara.
+- ✍️📋 Nuestro módulo, permite visualizar  las publicaciones recientes concercientes a los proyectos creados asignados a determinado estudiante. Siendo posible  obtener más información al acceder a esta, como la descripción, y el titulo del fenomeno que abarcara.
   
 ### Base de datos 
 
@@ -142,7 +142,7 @@ Asegúrate de tener instalados los siguientes elementos antes de comenzar
 
 1. Clonar el repositorio
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/github_username/EDVISTO-MOD-FEED-BACK.git
    ```
 2. Ve al directorio del proyecto
    ```sh
